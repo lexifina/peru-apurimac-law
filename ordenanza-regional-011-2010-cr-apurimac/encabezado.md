@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+Nº 011-2010-CR-APURIMAC
+EL PRESIDENTE DEL GOBIERNO
+REGIONAL DE APURIMAC
+POR CUANTO:
+El Consejo Regional de Apurímac, en Sesión Ordinaria de fecha veintiséis de Abril del año dos mil diez, llevada a cabo en la ciudad de Abancay.
+CONSIDERANDO:
+Que, el artículo 191º de la Constitución Política del Estado, modificada por la Ley Nº 27680 de Reforma Constitucional del Capítulo XIV del Título IV, sobre la Descentralización, prescribe que los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia. Coordinan con las Municipalidades sin interferir sus funciones y atribuciones. Su estructura orgánica básica de estos gobiernos la conforman el Consejo Regional como órgano normativo y fiscalizador, el Presidente como órgano ejecutivo, y el Consejo de Coordinación Regional como órgano consultivo;
+Que, de conformidad con el literal a) del artículo 15º de la Ley N° 27867, Ley Orgánica de Gobiernos Regionales, concordante con el literal a) del artículo 7º del Reglamento Interno del Consejo, son atribuciones del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional;
+Que, el artículo 38° de la Ley N° 27867, Ley Orgánica de Gobierno Regionales, establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia;
+Que, en el artículo 2° del Decreto Supremo N° 043-2006-PCM, precisa los lineamientos para generar la aprobación del Reglamento de Organización y Funciones que contenga una adecuada estructura orgánica de la Entidad y definición de sus funciones y la de los órganos que la integran, acorde con los criterios de desafío y estructura de la Administración que establece la Ley N° 27658, Ley Marco de Modernización de la Gestión Pública del Estado; con el fin de mejorar la Gestión Publica y construir un estado democrático y descentralizado;
+Que, se cuenta con opinión favorable de la Gerencia Regional de Planeamiento Presupuesto y Acondicionamiento Territorial y la Gerencia General del Gobierno Regional de Apurímac, en coordinación con los responsables de la formulación de los documentos de gestión y de la Sub Gerencia de Desarrollo Institucional, Estadística e Informática, cumpliendo de esta manera, los lineamientos Previstos en el D.S N° 043-2006-PCM;
+Que, en la propuesta del Reglamento de Organización y Funciones se indican 04 Títulos, 06 Capítulos, 47 Artículos y 05 Disposiciones Complementarias y Finales, los cuales se detallan en los Anexos que forman parte de la presente Ordenanza Regional.
+Que, de acuerdo a lo establecido por el Artículo 191° de la Constitución Política del Estado, artículos 9º, 15º, 21º, 37º y 38º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, sus Modificatorias y estando a lo expuesto, acordado y aprobado, con el voto unánime de los miembros del Consejo Regional de Apurímac, con dispensa del trámite de lectura y aprobación del acta;
+Ha dado la Ordenanza Regional siguiente:
