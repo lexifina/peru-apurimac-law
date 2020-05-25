@@ -1,0 +1,5 @@
+Artículo 25.- De las competencias de los Gobierno Regionales en la evaluación del impacto ambiental.
+El Gobierno Regional Apurímac es el encargado de la coordinación de los procesos de Evaluación de Impacto Ambiental en la región, en los temas que tenga competencia. Emite certificación ambiental de acuerdo a las leyes especiales emitidas para tal efecto, o aquellas funciones que en materia de evaluación del impacto ambiental le sean transferidas en el marco del proceso de descentralización que resulten de su competencia, y cuyos efectos se circunscriban a la respectiva región, de conformidad con lo dispuesto en la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales. Para ello debe cumplir con las normas, guías técnicas, criterios, lineamientos y procedimientos emitidos por las autoridades ambientales sectoriales y que estén referidos al proceso de evaluación de impacto ambiental de los proyectos sujetos al SEIA.
+CAPÍTULO IV: DE LA EVALUACIÓN Y
+FISCALIZACIÓN AMBIENTAL EN EL ÁMBITO
+REGIONAL

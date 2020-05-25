@@ -1,0 +1,2 @@
+Artículo 4.- Del SRGA Apurímac
+El SRGA Apurímac es un conjunto integrado de principios, normas, procesos e instrumentos, mediante los cuales se organizan las entidades públicas y privadas con competencias y responsabilidades ambientales a nivel regional, con la finalidad de coordinar las acciones públicas y privadas dirigidas a implementar la PNA en el ámbito regional, articulada al Plan de Desarrollo Regional Concertado (PDRC) de Apurímac.

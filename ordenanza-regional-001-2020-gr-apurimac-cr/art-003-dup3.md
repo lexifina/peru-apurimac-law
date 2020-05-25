@@ -1,0 +1,2 @@
+Artículo 3.- De la gestión ambiental regional
+La gestión ambiental regional es un proceso permanente y continuo, constituido por el conjunto estructurado de principios, normas, procesos e instrumentos, orientados a administrar los intereses, expectativas y recursos relacionados con la implementación de la PNA, a través de acciones destinadas a proteger el ambiente, así como contribuir a la conservación y aprovechamiento sostenible de los recursos naturales del ámbito regional de Apurímac.

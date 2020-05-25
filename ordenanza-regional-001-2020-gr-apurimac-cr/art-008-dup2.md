@@ -1,0 +1,3 @@
+Artículo 8.- Del Nivel I del SRGA Apurímac
+En el nivel I del SRGA de Apurímac se aprueban las acciones dirigidas a implementar la PNA en el ámbito regional, mediante la toma de decisiones en materia ambiental.
+Las funciones del nivel I, son ejercidas por el Gobernador Regional y el Consejo Regional, que coordinan con los diferentes poderes del Estado y organismos autónomos en aquellas materias necesarias para fortalecer e integrar la gestión ambiental, promoviendo la participación activa de las entidades integrantes del SRGA Apurímac y en la aplicación de los acuerdos y decisiones que se deriven de éste.

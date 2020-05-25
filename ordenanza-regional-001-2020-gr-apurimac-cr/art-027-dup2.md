@@ -1,0 +1,2 @@
+Artículo 27.- De las competencias regionales en fiscalización ambiental
+El Gobierno Regional de Apurímac, en calidad de Entidad de Fiscalización Ambiental – EFA Regional, a través de las unidades orgánicas correspondientes, ejerce funciones de fiscalización ambiental en el marco del Sistema Nacional de Evaluación y Fiscalización Ambiental y que resulten del proceso de descentralización o las funciones que estén asignadas por Ley, de conformidad con la normativa vigente.

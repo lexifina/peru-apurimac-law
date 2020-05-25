@@ -1,0 +1,3 @@
+Artículo 46.- Sistema Nacional de Acuicultura (SINACUI)
+El Gobierno Regional de Apurímac, a través de las unidades orgánicas de gestión ambiental y desarrollo económico, entre ellas la Dirección Regional de Producción (DIREPRO), articula sus funciones en el marco del SINACUI, a fin de implementar de manera coherente y complementaria el ejercicio de las funciones relativas a la gestión sostenible de la actividad acuícola en el ámbito regional, considerando las disposiciones del SRGA de Apurímac respecto a la conservación y uso sostenible de la diversidad biológica, la protección de las áreas naturales protegidas, y el control de la calidad ambiental.
+TÍTULO IV: MEJORA CONTINUA DEL SRGA

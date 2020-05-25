@@ -1,0 +1,4 @@
+Artículo 34.- De la articulación de la conservación de la Diversidad Biológica en el ámbito regional.
+La gestión de la diversidad biológica en el ámbito regional de Apurímac debe articular los intereses de conservación y uso sostenible de la diversidad biológica a los objetivos regionales y nacionales bajo una lógica de conectividad de los ecosistemas, ámbito de extensión y priorización de objetivos de conservación del ámbito regional.
+Esta tarea debe ser conducida por la GRRNGA del Gobierno Regional de Apurímac, buscando el establecimiento de mecanismos de coordinación efectiva entre las instituciones públicas, las organizaciones privadas y de la sociedad civil vinculados a la gestión de la diversidad biológica en el ámbito regional.
+El GTR conformado en el marco de la CAR Apurímac, orientado a promover el diálogo y concertar propuestas en materia de conservación y uso sostenible de la diversidad biológica constituyen mecanismos de articulación en dicha materia.

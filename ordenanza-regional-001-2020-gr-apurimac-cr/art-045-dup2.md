@@ -1,0 +1,3 @@
+Artículo 45.- Sistema Nacional de Gestión de Riesgos de Desastres (SINAGERD)
+El Gobierno Regional de Apurímac articula sus funciones relativas al SINAGERD, con las disposiciones señaladas en el SNGA y el SRGA de Apurímac, entre ellas, las acciones conducentes a identificar y mitigar los riesgos ante desastres naturales en los procesos ambientales, así como la rehabilitación conducente a la reparación de los daños ambientales surgidos en la zona afectada por una emergencia o desastre
+La unidad orgánica encargada de la Gestión de Riesgos de Desastres del Gobierno Regional de Apurímac incorpora en el proceso de ordenamiento territorial ambiental y en los procesos de gestión ambiental respectivos, las acciones y medidas conducentes a la Gestión del Riesgo de Desastres.

@@ -1,0 +1,3 @@
+Artículo 12.- De la CAR Apurímac
+La CAR Apurímac es la instancia de gestión ambiental de carácter multisectorial, encargada de la coordinación y concertación de las acciones dirigidas a la implementación de la PNA en el ámbito regional, articulando esfuerzos entre el Gobierno Regional y demás organismos competentes en temas ambientales en el ámbito regional, para orientar la gestión ambiental a un nivel de eficacia real, que resuelva los problemas ambientales que sólo pueden ser enfrentados bajo mecanismos transectoriales y participativos.
+La CAR Apurímac está conformada por instituciones y actores regionales y locales con responsabilidad e interés en la gestión ambiental regional de Apurímac.

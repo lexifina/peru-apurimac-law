@@ -1,0 +1,2 @@
+Artículo 31.- De la Conservación de la Diversidad Biológica en el ámbito regional
+La conservación y uso sostenible de la diversidad biológica se desarrolla en el marco del Sistema Nacional de Áreas Naturales Protegidas por el Estado (SINANPE), el Sistema Nacional Forestal y de Fauna Silvestre (SINAFOR), así como de los lineamientos señalados en la Estrategia Nacional de Diversidad Biológica, y otros mecanismos de nivel nacional aplicables en la materia.
