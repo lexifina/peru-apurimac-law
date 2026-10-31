@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-49 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+61 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -61,6 +61,18 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-045-2010-cr-apurimac/` | Ordenanza Regional N° 045-2010-CR-APURIMAC: Aprueban Cuadro de Asignación de Personal CAP de la Dirección Subregional Agraria de Andahuaylas de la Región Apurím… | in force 16 December 2010 |
 | `ordenanza-regional-001-2010-cr-apurimac/` | Ordenanza Regional N° 001-2010-CR-APURIMAC: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Vivienda, Saneamiento y Construcción de Apur… | in force 14 March 2010 |
 | `ordenanza-regional-021-2013-gr-apurimac-cr/` | Ordenanza Regional N° 021-2013-GR.APURIMAC/CR: Aprueban Cuadro de Asignación de Personal - CAP del Instituto de Educación Superior Tecnológico Público del distr… | in force 22 November 2013 |
+| `ordenanza-regional-003-2020-gr-apurimac-cr/` | Ordenanza Regional N° 003-2020-GR-APURÍMAC/CR: Aprueban el Organigrama Institucional y Reglamento de Organización y Funciones - ROF de la Dirección de Red de Sa… | in force 19 May 2021 |
+| `ordenanza-regional-005-2020-gr-apurimac-cr/` | Ordenanza Regional N° 005-2020-GR-APURÍMAC/CR: Aprueban el Organigrama Institucional y Reglamento de Organización y Funciones - ROF del Hospital Regional Guille… | in force 16 December 2020 |
+| `ordenanza-regional-004-2020-cr-apurimac-cr/` | Ordenanza Regional N° 004-2020-CR-APURIMAC/CR: Aprueban el Organigrama Institucional y Reglamento de Organización y Funciones - ROF del Hospital Sub Regional de… | in force 25 September 2020 |
+| `ordenanza-regional-001-2020-gr-apurimac-cr/` | Ordenanza Regional N° 001-2020-GR.APURÍMAC/CR: Crean el Sistema Regional de Gestión Ambiental - SRGA de la Región Apurímac y derogan la Ordenanza Regional N° 01… | in force 25 May 2020 |
+| `ordenanza-regional-012-2019-gr-apurimac-cr/` | Ordenanza Regional N° 012-2019-GR-APURÍMAC/CR: Rectifican el artículo primero de la Ordenanza Regional 009-2018-GR.APURÍMAC/CR | in force 21 May 2020 |
+| `ordenanza-regional-001-2012-gr-apurimac-cr/` | Ordenanza Regional N° 001-2012-GR-APURIMAC/CR: Aprueban la Constitución de la "Mancomunidad Regional Apurímac, Ayacucho, Huancavelica" | in force 11 September 2013 |
+| `ordenanza-regional-027-2009-cr-apurimac/` | Ordenanza Regional N° 027-2009-CR-APURIMAC: Aprueban creación de la Oficina de Defensa Nacional del Gobierno Regional de Apúrimac (ODENA) | in force 17 September 2010 |
+| `ordenanza-regional-030-2010-cr-apurimac/` | Ordenanza Regional N° 030-2010-CR-APURIMAC: Aprueban Reglamento de Organización y Funciones y la Estructura Organizacional de la Unidad de Gestión Educativa Loc… | in force 9 July 2010 |
+| `ordenanza-regional-015-2010-cr-apurimac/` | Ordenanza Regional N° 015-2010-CR-APURIMAC: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Transportes y Comunicaciones de Apurímac | in force 9 July 2010 |
+| `ordenanza-regional-011-2010-cr-apurimac/` | Ordenanza Regional N° 011-2010-CR-APURIMAC: Aprueban Reglamento de Organización y Funciones de la Gerencia Subregional Chanka | in force 27 May 2010 |
+| `ordenanza-regional-005-2010-cr-apurimac/` | Ordenanza Regional N° 005-2010-CR-APURIMAC: Aprueban Reglamento de Organización y Funciones de la Dirección Subregional Agraria de Andahuaylas | in force 1 May 2010 |
+| `ordenanza-regional-004-2010-cr-apurimac/` | Ordenanza Regional N° 004-2010-CR-APURIMAC: Aprueban Cuadro para Asignación de Personal de la Dirección Regional Agraria de Apurímac | in force 30 April 2010 |
 
 ## Source
 

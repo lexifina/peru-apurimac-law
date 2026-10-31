@@ -63,20 +63,32 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-045-2010-cr-apurimac` | Ordenanza Regional N° 045-2010-CR-APURIMAC: Aprueban Cuadro de Asignación de Personal CAP de la Dirección Subregional Agraria de Andahuaylas de la Región Apurímac | 1 | 2010-12-16 to 2010-12-16 |
 | `ordenanza-regional-001-2010-cr-apurimac` | Ordenanza Regional N° 001-2010-CR-APURIMAC: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Vivienda, Saneamiento y Construcción de Apurímac | 1 | 2010-03-14 to 2010-03-14 |
 | `ordenanza-regional-021-2013-gr-apurimac-cr` | Ordenanza Regional N° 021-2013-GR.APURIMAC/CR: Aprueban Cuadro de Asignación de Personal - CAP del Instituto de Educación Superior Tecnológico Público del distrito de Curahuasi | 1 | 2013-11-22 to 2013-11-22 |
+| `ordenanza-regional-003-2020-gr-apurimac-cr` | Ordenanza Regional N° 003-2020-GR-APURÍMAC/CR: Aprueban el Organigrama Institucional y Reglamento de Organización y Funciones - ROF de la Dirección de Red de Salud Abancay | 1 | 2021-05-19 to 2021-05-19 |
+| `ordenanza-regional-005-2020-gr-apurimac-cr` | Ordenanza Regional N° 005-2020-GR-APURÍMAC/CR: Aprueban el Organigrama Institucional y Reglamento de Organización y Funciones - ROF del Hospital Regional Guillermo Díaz de la Vega | 1 | 2020-12-16 to 2020-12-16 |
+| `ordenanza-regional-004-2020-cr-apurimac-cr` | Ordenanza Regional N° 004-2020-CR-APURIMAC/CR: Aprueban el Organigrama Institucional y Reglamento de Organización y Funciones - ROF del Hospital Sub Regional de Andahuaylas | 1 | 2020-09-25 to 2020-09-25 |
+| `ordenanza-regional-001-2020-gr-apurimac-cr` | Ordenanza Regional N° 001-2020-GR.APURÍMAC/CR: Crean el Sistema Regional de Gestión Ambiental - SRGA de la Región Apurímac y derogan la Ordenanza Regional N° 017-2014-GR.APURIMAC/CR. | 1 | 2020-05-25 to 2020-05-25 |
+| `ordenanza-regional-012-2019-gr-apurimac-cr` | Ordenanza Regional N° 012-2019-GR-APURÍMAC/CR: Rectifican el artículo primero de la Ordenanza Regional 009-2018-GR.APURÍMAC/CR | 1 | 2020-05-21 to 2020-05-21 |
+| `ordenanza-regional-001-2012-gr-apurimac-cr` | Ordenanza Regional N° 001-2012-GR-APURIMAC/CR: Aprueban la Constitución de la "Mancomunidad Regional Apurímac, Ayacucho, Huancavelica" | 1 | 2013-09-11 to 2013-09-11 |
+| `ordenanza-regional-027-2009-cr-apurimac` | Ordenanza Regional N° 027-2009-CR-APURIMAC: Aprueban creación de la Oficina de Defensa Nacional del Gobierno Regional de Apúrimac (ODENA) | 1 | 2010-09-17 to 2010-09-17 |
+| `ordenanza-regional-030-2010-cr-apurimac` | Ordenanza Regional N° 030-2010-CR-APURIMAC: Aprueban Reglamento de Organización y Funciones y la Estructura Organizacional de la Unidad de Gestión Educativa Local de Abancay | 1 | 2010-07-09 to 2010-07-09 |
+| `ordenanza-regional-015-2010-cr-apurimac` | Ordenanza Regional N° 015-2010-CR-APURIMAC: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Transportes y Comunicaciones de Apurímac | 1 | 2010-07-09 to 2010-07-09 |
+| `ordenanza-regional-011-2010-cr-apurimac` | Ordenanza Regional N° 011-2010-CR-APURIMAC: Aprueban Reglamento de Organización y Funciones de la Gerencia Subregional Chanka | 1 | 2010-05-27 to 2010-05-27 |
+| `ordenanza-regional-005-2010-cr-apurimac` | Ordenanza Regional N° 005-2010-CR-APURIMAC: Aprueban Reglamento de Organización y Funciones de la Dirección Subregional Agraria de Andahuaylas | 1 | 2010-05-01 to 2010-05-01 |
+| `ordenanza-regional-004-2010-cr-apurimac` | Ordenanza Regional N° 004-2010-CR-APURIMAC: Aprueban Cuadro para Asignación de Personal de la Dirección Regional Agraria de Apurímac | 1 | 2010-04-30 to 2010-04-30 |
 
-The build made 49 commits:
+The build made 61 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 49 | first version of an act |
+| 61 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 49 laws in the record.
-- 98 tags.
+- 61 laws in the record.
+- 122 tags.
 
 ## Dates
 
@@ -88,13 +100,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3f549ff865d823cfc2d8a47be70e28e2770f936f24ea74053d6356021f325dc1` (511252 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `26c1f6de100098dafd6bb09f7bc870b3716cf3aa1e6b112124f030c110a6dffe` (698134 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-49 versions of 49 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

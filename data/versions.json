@@ -686,6 +686,174 @@
      "sha256": "ab1e60c1f9bf6c3c83ebce1104ade453fc57a968a2dcf25ed0a4e3ffa9bc60d7"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2020-gr-apurimac-cr",
+   "short": "Ordenanza Regional N° 003-2020-GR-APURÍMAC/CR",
+   "title": "Ordenanza Regional N° 003-2020-GR-APURÍMAC/CR: Aprueban el Organigrama Institucional y Reglamento de Organización y Funciones - ROF de la Dirección de Red de Salud Abancay",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1953702-1",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2i0M7x8iqkMBm_UYxL_H0D/*/1953702-1.pdf",
+     "sha256": "b62b89045037aa53138768eb9e3cdaaefe1af5d05ebe9a0f91783397c9243cd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2020-gr-apurimac-cr",
+   "short": "Ordenanza Regional N° 005-2020-GR-APURÍMAC/CR",
+   "title": "Ordenanza Regional N° 005-2020-GR-APURÍMAC/CR: Aprueban el Organigrama Institucional y Reglamento de Organización y Funciones - ROF del Hospital Regional Guillermo Díaz de la Vega",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1911794-1",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7YHPu5hMK1h92fDetaEZrq/*/1911794-1.pdf",
+     "sha256": "cfd202991ad13c52926abdd0dd3675f806764229cfed2d89a638d3b4d989e8de"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2020-cr-apurimac-cr",
+   "short": "Ordenanza Regional N° 004-2020-CR-APURIMAC/CR",
+   "title": "Ordenanza Regional N° 004-2020-CR-APURIMAC/CR: Aprueban el Organigrama Institucional y Reglamento de Organización y Funciones - ROF del Hospital Sub Regional de Andahuaylas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1887145-1",
+   "versions": [
+    {
+     "from": "2020-09-25",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8U3QlDpNqhA9svFLF4q8C6/*/1887145-1.pdf",
+     "sha256": "8906cb3beaf3c2e740bbfd6c64f2e4c9b0ce4471dfc52a1a42706a9982b9c6b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2020-gr-apurimac-cr",
+   "short": "Ordenanza Regional N° 001-2020-GR.APURÍMAC/CR",
+   "title": "Ordenanza Regional N° 001-2020-GR.APURÍMAC/CR: Crean el Sistema Regional de Gestión Ambiental - SRGA de la Región Apurímac y derogan la Ordenanza Regional N° 017-2014-GR.APURIMAC/CR.",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866472-1",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 99,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4Wf-XmhV4LPASl7WfGaRen/*/1866472-1.pdf",
+     "sha256": "10792e292098b4fa6b0dcac92e6b502e1535072cc6b607d8759249b191b36503"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2019-gr-apurimac-cr",
+   "short": "Ordenanza Regional N° 012-2019-GR-APURÍMAC/CR",
+   "title": "Ordenanza Regional N° 012-2019-GR-APURÍMAC/CR: Rectifican el artículo primero de la Ordenanza Regional 009-2018-GR.APURÍMAC/CR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866471-2",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 29,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1VgLny_JaeOAVyPmlgVAWo/*/1866471-2.pdf",
+     "sha256": "0c4883ead99e8a7c7e6808b9879a22d500d3c82029a468f1a25717255c8c732f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2012-gr-apurimac-cr",
+   "short": "Ordenanza Regional N° 001-2012-GR-APURIMAC/CR",
+   "title": "Ordenanza Regional N° 001-2012-GR-APURIMAC/CR: Aprueban la Constitución de la \"Mancomunidad Regional Apurímac, Ayacucho, Huancavelica\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/985367-1",
+   "versions": [
+    {
+     "from": "2013-09-11",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8Z7cWvkX46q8WQlPPWCJK9/*/985367-1.pdf",
+     "sha256": "dddc597efc4198840800811b70394103c44910496b87790fc54f97f57ed1bf8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-027-2009-cr-apurimac",
+   "short": "Ordenanza Regional N° 027-2009-CR-APURIMAC",
+   "title": "Ordenanza Regional N° 027-2009-CR-APURIMAC: Aprueban creación de la Oficina de Defensa Nacional del Gobierno Regional de Apúrimac (ODENA)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/543163-1",
+   "versions": [
+    {
+     "from": "2010-09-17",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2DhpP89A4-G90sCde4skgZ/*/543163-1.pdf",
+     "sha256": "12802504e2e315a907f7152322f348e9276ced18c5c5a49085a7f9a82b8f183a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-030-2010-cr-apurimac",
+   "short": "Ordenanza Regional N° 030-2010-CR-APURIMAC",
+   "title": "Ordenanza Regional N° 030-2010-CR-APURIMAC: Aprueban Reglamento de Organización y Funciones y la Estructura Organizacional de la Unidad de Gestión Educativa Local de Abancay",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/515866-1",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9TblJAqWKuTAgrACWTsEyQ/*/515866-3.pdf",
+     "sha256": "8eb528c8ca30a7b89bcc551bbc52ae2001efb19577d54bb9a7425db799e910fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-015-2010-cr-apurimac",
+   "short": "Ordenanza Regional N° 015-2010-CR-APURIMAC",
+   "title": "Ordenanza Regional N° 015-2010-CR-APURIMAC: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Transportes y Comunicaciones de Apurímac",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/515864-1",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0w5RGbpWqyP95Kxvhghk2m/*/515864-2.pdf",
+     "sha256": "59d9a87264fdfa41492eb55d3b1f1b989399ca76b5df526dd18728b73b5e3743"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2010-cr-apurimac",
+   "short": "Ordenanza Regional N° 011-2010-CR-APURIMAC",
+   "title": "Ordenanza Regional N° 011-2010-CR-APURIMAC: Aprueban Reglamento de Organización y Funciones de la Gerencia Subregional Chanka",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/498102-1",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Bz7xk1vxaJOAlXT4Kj3LLe/*/498102-1.pdf",
+     "sha256": "fb47413f4a1830aac579a14058d4e314334288206ad35a4eef450e9da6b4a55f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2010-cr-apurimac",
+   "short": "Ordenanza Regional N° 005-2010-CR-APURIMAC",
+   "title": "Ordenanza Regional N° 005-2010-CR-APURIMAC: Aprueban Reglamento de Organización y Funciones de la Dirección Subregional Agraria de Andahuaylas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/486920-1",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AMaYtxMLKW4BwSOexf-AAQ/*/486920-1.pdf",
+     "sha256": "b3913a55bbe992fc10ff4fa5fc374d0e8f05267d9938959cd41c16c0d3a30034"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2010-cr-apurimac",
+   "short": "Ordenanza Regional N° 004-2010-CR-APURIMAC",
+   "title": "Ordenanza Regional N° 004-2010-CR-APURIMAC: Aprueban Cuadro para Asignación de Personal de la Dirección Regional Agraria de Apurímac",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/486919-1",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C4Icu0GKKFwBwtA8qSunbm/*/486919-1.pdf",
+     "sha256": "2b09fa4938ea9ac36fd91c4efa6b7e70748150dd4d0693eab2320ed6325a3dbc"
+    }
+   ]
   }
  ]
 }

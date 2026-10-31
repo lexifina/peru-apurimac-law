@@ -1,0 +1,86 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-003-2023-gr-apurimac-cr",
+    "ordenanza-regional-005-2022-gr-apurimac-cr",
+    "ordenanza-regional-006-2017-gr-apurimac-cr",
+    "ordenanza-regional-007-2023-gr-apurimac-cr",
+    "ordenanza-regional-009-2019-cr-apurimac-cr",
+    "ordenanza-regional-010-2017-gr-apurimac-cr",
+    "ordenanza-regional-010-2022-cr-apurimac-cr",
+    "ordenanza-regional-010-2025-gr-apurimac-cr",
+    "ordenanza-regional-011-2016-gr-apurimac-cr",
+    "ordenanza-regional-011-2017-gr-apurimac-cr",
+    "ordenanza-regional-012-2017-gr-apurimac-cr",
+    "ordenanza-regional-012-2020-g-r-apurimac-cr",
+    "ordenanza-regional-013-2017-gr-apurimac-cr",
+    "ordenanza-regional-013-2018-cr-apurimac",
+    "ordenanza-regional-014-2017-gr-apurimac-cr",
+    "ordenanza-regional-015-2017-gr-apurimac-cr",
+    "ordenanza-regional-016-2017-gr-apurimac-cr",
+    "ordenanza-regional-016-2020-gr-apurimac-cr",
+    "ordenanza-regional-016-2022-gr-apurimac-cr",
+    "ordenanza-regional-017-2017-gr-apurimac-cr",
+    "ordenanza-regional-018-2017-gr-apurimac-cr",
+    "ordenanza-regional-019-2017-gr-apurimac-cr",
+    "ordenanza-regional-020-2017-gr-apurimac-cr",
+    "ordenanza-regional-021-2017-gr-apurimac-cr",
+    "ordenanza-regional-022-2017-gr-apurimac-cr",
+    "ordenanza-regional-023-2017-gr-apurimac-cr",
+    "ordenanza-regional-024-2017-gr-apurimac-cr",
+    "ordenanza-regional-025-2017-gr-apurimac-cr",
+    "ordenanza-regional-026-2017-gr-apurimac-cr",
+    "ordenanza-regional-027-2017-gr-apurimac-cr",
+    "ordenanza-regional-028-2017-gr-apurimac-cr",
+    "ordenanza-regional-09-2025-gr-apurimac-cr"
+   ],
+   "sha256": "063ff88a2424502c48a72f1212814b631ae9de17ba6ee512a10c0e5c0f8c6eec"
+  },
+  "31-recuperadas-01.json": {
+   "acts": [
+    "ordenanza-regional-008-2022-gr-apurimac-cr",
+    "ordenanza-regional-025-2016-gr-apurimac-cr",
+    "ordenanza-regional-026-2016-gr-apurimac-cr",
+    "ordenanza-regional-027-2016-gr-apurimac-cr",
+    "ordenanza-regional-028-2016-gr-apurimac-cr"
+   ],
+   "sha256": "75d23620a743be903d0c0ca96fdea34cdcdb4beec8672202f1909dd67b1b1e3a"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2010-cr-apurimac",
+    "ordenanza-regional-019-2016-gr-apurimac-cr",
+    "ordenanza-regional-020-2015-gr-apurimac-cr",
+    "ordenanza-regional-020-2016-gr-apurimac-cr",
+    "ordenanza-regional-021-2013-gr-apurimac-cr",
+    "ordenanza-regional-021-2016-gr-apurimac-cr",
+    "ordenanza-regional-022-2016-gr-apurimac-cr",
+    "ordenanza-regional-023-2016-gr-apurimac-cr",
+    "ordenanza-regional-024-2016-gr-apurimac-cr",
+    "ordenanza-regional-031-2010-cr-apurimac",
+    "ordenanza-regional-034-2010-cr-apurimac",
+    "ordenanza-regional-045-2010-cr-apurimac"
+   ],
+   "sha256": "511de76f1cd28392a434fd60750d99c9d3ffb37cdf61b3956384e54a2bad0d20"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2012-gr-apurimac-cr",
+    "ordenanza-regional-001-2020-gr-apurimac-cr",
+    "ordenanza-regional-003-2020-gr-apurimac-cr",
+    "ordenanza-regional-004-2010-cr-apurimac",
+    "ordenanza-regional-004-2020-cr-apurimac-cr",
+    "ordenanza-regional-005-2010-cr-apurimac",
+    "ordenanza-regional-005-2020-gr-apurimac-cr",
+    "ordenanza-regional-011-2010-cr-apurimac",
+    "ordenanza-regional-012-2019-gr-apurimac-cr",
+    "ordenanza-regional-015-2010-cr-apurimac",
+    "ordenanza-regional-027-2009-cr-apurimac",
+    "ordenanza-regional-030-2010-cr-apurimac"
+   ],
+   "sha256": "ab6306c9378d276b9eabbfc2d5fd9dc74be7a9feb76c2a4a27500ca375749079"
+  }
+ },
+ "schema": 1
+}
